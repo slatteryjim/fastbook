@@ -1,3 +1,5 @@
+# symlink to the home/.fastai folder
+/.fastai
 .gitattributes
 models/
 tmp/
